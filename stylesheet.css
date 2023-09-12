@@ -3,14 +3,19 @@ header{
     
 }
 
-header div{
-    padding:10px;
+header li{
+    color:white;
+    list-style:none;
+    float:left;
+    margin:0px 10px;
+    padding:33px 20px;
 }
 
 .header-logo{
     font-size:40px;
     color:white;
-    text-align: center;
+    float:left;
+    padding:20px 40px;
 }
 
 main li{
